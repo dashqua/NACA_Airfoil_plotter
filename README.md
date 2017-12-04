@@ -71,6 +71,12 @@ x = (1:nbpoints )*(c/nbpoints) #les abscisses des noeuds
 t = 00.12
 ```
 
+All of those are included in the norm NACAxxxx:
+- 1st digit is m in percentage  
+- 2nd digit is p in tenth
+- 3st and 4th digits are t in percentage
+
+
 I won't go into details for the plot function, the source link will explain it better than I would do and the most important thing is first of all to play with the function.  
 Note that the plot part is included in the function.  
 
