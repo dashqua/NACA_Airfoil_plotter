@@ -13,4 +13,4 @@ http://www.aerospaceweb.org/question/airfoils/q0041.shtml
 ### Simple model - No camber
 
 The simplest way to draw an airfoil is to go on wikipedia (link provided in sources) and pick the very first equation:
-https://wikimedia.org/api/rest_v1/media/math/render/svg/78bd85502703161afec79cc776b14f0be7bb5d9d
+![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/78bd85502703161afec79cc776b14f0be7bb5d9d)
